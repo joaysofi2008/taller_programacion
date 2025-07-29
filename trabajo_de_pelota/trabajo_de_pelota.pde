@@ -2,7 +2,7 @@
 float x = 100;
 float y = 100;
 
-// Velocidad de la pelota
+// Velocidad de la pelotax
 float velX = 5;
 float velY = 5;
 
